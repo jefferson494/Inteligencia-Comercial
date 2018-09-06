@@ -1,4 +1,6 @@
 
+Prueba
+------------------------------------------
 SELECT * into MiNuevaTabla From MITABLA
 ------------------------------------------
 SELECT MVC_IDECLI,
